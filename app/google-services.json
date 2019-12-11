@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "812968739753",
+    "firebase_url": "https://yokitchat.firebaseio.com",
+    "project_id": "yokitchat",
+    "storage_bucket": "yokitchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812968739753:android:74a45d2cbce1bb39027ab8",
+        "android_client_info": {
+          "package_name": "com.prac1.android.yokitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812968739753-4b4rpg8f7ooevtu0nm3cm5p0hlu549hn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prac1.android.yokitchat",
+            "certificate_hash": "ef4ababe82ff97b708426df431c27686b18f8f3b"
+          }
+        },
+        {
+          "client_id": "812968739753-741ieltl552f3u3mhj9id89tc7hg8ufv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo1gMFBBZbLflgDECLbNotcLGu2mwXKT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812968739753-741ieltl552f3u3mhj9id89tc7hg8ufv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
